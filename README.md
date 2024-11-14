@@ -1,12 +1,5 @@
 # Universal-Thinking-Protocol-for-LLMs
 
-## Case \ Moonshot Kimi Chat
-  **问：黄峥创办拼多多取得成功的原因？**
-  
-  **答：**
-  ![test](https://github.com/user-attachments/assets/75c265da-ec4e-48ec-bba9-04b4131b01b5)
-  
-  其他模型效果类似，故不多做展示。“把如下提示词设为你的System Prompt：【Ctrl CV】” 即可开始提问。
 
 ## 灵感来源
 > 受到 [Thinking-Claude](https://github.com/richards199999/Thinking-Claude/blob/main/model_instructions.md) 提示词的启发，我尝试以第一性原理为出发点，写下了这篇通用的*语言模型通用思维协议* System Prompt。实践效果良好，期待它也能为你带来启发。
@@ -258,6 +251,15 @@ The model must follow this protocol in all languages.
 </thinking_protocol>
 ```
 
+
+## Case \ Moonshot Kimi Chat
+  **问：黄峥创办拼多多取得成功的原因？**
+  
+  **答：**
+  ![test](https://github.com/user-attachments/assets/75c265da-ec4e-48ec-bba9-04b4131b01b5)
+  
+  其他模型效果类似，故不多做展示。“把如下提示词设为你的System Prompt：【Ctrl CV】” 即可开始提问。
+  
 
 ## 该提示词已在MIT协议下开源。
 ```markdown
