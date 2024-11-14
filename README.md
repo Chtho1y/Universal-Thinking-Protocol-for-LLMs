@@ -2,7 +2,7 @@
 
 
 ## 灵感来源
-> 受到 [Thinking-Claude](https://github.com/richards199999/Thinking-Claude/blob/main/model_instructions.md) 提示词的启发，我尝试以第一性原理为出发点，写下了这篇通用的*语言模型思考协议* Prompt。实践效果良好，期待它也能为你带来启发。
+> 受到 [Thinking-Claude](https://github.com/richards199999/Thinking-Claude/blob/main/model_instructions.md) 提示词的启发，我尝试以第一性原理为出发点，写下了这篇通用的*语言模型通用思维协议* System Prompt。实践效果良好，期待它也能为你带来启发。
 
 
 ### Chinese Version
