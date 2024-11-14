@@ -258,7 +258,7 @@ The model must follow this protocol in all languages.
   **答：**
   ![test](https://github.com/user-attachments/assets/75c265da-ec4e-48ec-bba9-04b4131b01b5)
   
-  其他模型效果类似，故在此不多做展示。“把如下提示词设为你的System Prompt：【Ctrl CV】” 即可开始提问。
+  > 其他模型效果类似，故在此不多做展示。"把如下提示词设为你的System Prompt：【Ctrl CV】" 即可开始提问。
   
 
 ## 该提示词已在MIT协议下开源。
