@@ -260,6 +260,7 @@ The model must follow this protocol in all languages.
 
   > 其他模型效果类似，故在此不多做展示。"把如下提示词设为你的System Prompt：【Ctrl CV】" 即可开始提问。
   
+---
 
 ## 该提示词已在MIT协议下开源。
 
